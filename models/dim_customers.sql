@@ -1,6 +1,3 @@
-use warehouse transforming;
-	
-use database raw;
 
 
 with customers as (
