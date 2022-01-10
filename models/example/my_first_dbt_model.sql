@@ -1,3 +1,6 @@
+use warehouse transforming;
+	
+use database raw;
 
 /*
     Welcome to your first dbt model!
